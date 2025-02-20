@@ -1,0 +1,12 @@
+.currency-input {
+  width: 400px;
+  height: 100px;
+
+  font-size: 40pt;
+
+  background-color: #fff;
+  opacity: 70%;
+
+  border: #000 solid 1px;
+  border-radius: 10%;
+}

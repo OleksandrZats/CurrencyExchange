@@ -1,0 +1,19 @@
+.currency-button {
+  width: 100px;
+  height: 100px;
+
+  background-color: #fff;
+  border-radius: 50%;
+  border: solid #000 1px;
+
+  font-size: 30pt;
+
+  cursor: pointer;
+}
+
+.small {
+  width: 30px;
+  height: 30px;
+
+  font-size: 10pt;
+}
